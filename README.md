@@ -5,4 +5,4 @@ Dockerized Kotlin Jupyter notebook
 
 Then open URL which is printed to console.
 
-![image](https://user-images.githubusercontent.com/18138/113609120-a7641600-964b-11eb-8cff-775deb43a50d.png)
+![image](https://user-images.githubusercontent.com/18138/113609825-9f58a600-964c-11eb-8328-138a8407985f.png)
