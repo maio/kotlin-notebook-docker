@@ -1,5 +1,6 @@
 # kotlin-notebook-docker
-Dockerized Kotlin Jupyter notebook
+
+Dockerized [Kotlin Jupyter](https://github.com/Kotlin/kotlin-jupyter) notebook.
 
     make run
 
